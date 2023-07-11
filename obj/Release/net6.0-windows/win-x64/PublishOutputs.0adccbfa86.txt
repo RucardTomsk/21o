@@ -1,0 +1,2 @@
+D:\Рита\Soliter\bin\Release\net6.0-windows\publish\Soliter.pdb
+D:\Рита\Soliter\bin\Release\net6.0-windows\publish\Soliter.exe

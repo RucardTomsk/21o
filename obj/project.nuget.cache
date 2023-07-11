@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "th4E1QrQIg1TPHd/ursXoaco8/xkKPCsnuflV3LUmYoeMS5ZTxrQ0gfKFVR2RBisQR1jMxRIOVaGhulCODeBlA==",
+  "success": true,
+  "projectFilePath": "D:\\Рита\\Black Jack\\Soliter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rucard\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.16\\microsoft.aspnetcore.app.runtime.win-x64.6.0.16.nupkg.sha512",
+    "C:\\Users\\Rucard\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.16\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.16.nupkg.sha512",
+    "C:\\Users\\Rucard\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.16\\microsoft.netcore.app.runtime.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

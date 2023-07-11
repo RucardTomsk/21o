@@ -1,0 +1,12 @@
+D:\Рита\Black Jack\obj\Release\net6.0-windows\win-x64\Black Jeck.csproj.AssemblyReference.cache
+D:\Рита\Black Jack\obj\Release\net6.0-windows\win-x64\Black_Jeck.CardResource.resources
+D:\Рита\Black Jack\obj\Release\net6.0-windows\win-x64\Soliter.EndGame.resources
+D:\Рита\Black Jack\obj\Release\net6.0-windows\win-x64\Soliter.Game.resources
+D:\Рита\Black Jack\obj\Release\net6.0-windows\win-x64\Soliter.Menu.resources
+D:\Рита\Black Jack\obj\Release\net6.0-windows\win-x64\Soliter.Record.resources
+D:\Рита\Black Jack\obj\Release\net6.0-windows\win-x64\Soliter.StartGame.resources
+D:\Рита\Black Jack\obj\Release\net6.0-windows\win-x64\Black Jeck.csproj.GenerateResource.cache
+D:\Рита\Black Jack\obj\Release\net6.0-windows\win-x64\Black Jeck.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рита\Black Jack\obj\Release\net6.0-windows\win-x64\Black Jeck.AssemblyInfoInputs.cache
+D:\Рита\Black Jack\obj\Release\net6.0-windows\win-x64\Black Jeck.AssemblyInfo.cs
+D:\Рита\Black Jack\obj\Release\net6.0-windows\win-x64\Black Jeck.csproj.CoreCompileInputs.cache
